@@ -1,6 +1,6 @@
-# Hello_World
+# <Hello_World>
 
 ![Alt Text](https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif)
 
-Just for Fun - This repository contains hello world program in different languages. 
+The Repository contains Hello World Program in common programming languages 
 
